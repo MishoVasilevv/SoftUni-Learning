@@ -1,0 +1,15 @@
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\bin\Debug\net5.0\07.HotPotato.exe
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\bin\Debug\net5.0\07.HotPotato.deps.json
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\bin\Debug\net5.0\07.HotPotato.runtimeconfig.json
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\bin\Debug\net5.0\07.HotPotato.runtimeconfig.dev.json
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\bin\Debug\net5.0\07.HotPotato.dll
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\bin\Debug\net5.0\ref\07.HotPotato.dll
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\bin\Debug\net5.0\07.HotPotato.pdb
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\obj\Debug\net5.0\07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\obj\Debug\net5.0\07.HotPotato.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\obj\Debug\net5.0\07.HotPotato.AssemblyInfo.cs
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\obj\Debug\net5.0\07.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\obj\Debug\net5.0\07.HotPotato.dll
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\obj\Debug\net5.0\ref\07.HotPotato.dll
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\obj\Debug\net5.0\07.HotPotato.pdb
+C:\Users\misho\source\repos\CSharpAdvanced\07.HotPotato\obj\Debug\net5.0\07.HotPotato.genruntimeconfig.cache

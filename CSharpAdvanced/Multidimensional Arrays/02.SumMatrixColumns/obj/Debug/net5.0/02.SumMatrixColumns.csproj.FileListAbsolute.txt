@@ -1,0 +1,16 @@
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\bin\Debug\net5.0\02.SumMatrixColumns.exe
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\bin\Debug\net5.0\02.SumMatrixColumns.deps.json
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\bin\Debug\net5.0\02.SumMatrixColumns.runtimeconfig.json
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\bin\Debug\net5.0\02.SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\bin\Debug\net5.0\02.SumMatrixColumns.dll
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\bin\Debug\net5.0\ref\02.SumMatrixColumns.dll
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\bin\Debug\net5.0\02.SumMatrixColumns.pdb
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\obj\Debug\net5.0\02.SumMatrixColumns.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\obj\Debug\net5.0\02.SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\obj\Debug\net5.0\02.SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\obj\Debug\net5.0\02.SumMatrixColumns.AssemblyInfo.cs
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\obj\Debug\net5.0\02.SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\obj\Debug\net5.0\02.SumMatrixColumns.dll
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\obj\Debug\net5.0\ref\02.SumMatrixColumns.dll
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\obj\Debug\net5.0\02.SumMatrixColumns.pdb
+C:\Users\misho\source\repos\Multidimensional Arrays\02.SumMatrixColumns\obj\Debug\net5.0\02.SumMatrixColumns.genruntimeconfig.cache

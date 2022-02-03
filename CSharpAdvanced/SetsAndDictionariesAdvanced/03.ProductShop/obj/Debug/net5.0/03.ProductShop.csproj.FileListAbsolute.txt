@@ -1,0 +1,16 @@
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\bin\Debug\net5.0\03.ProductShop.exe
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\bin\Debug\net5.0\03.ProductShop.deps.json
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\bin\Debug\net5.0\03.ProductShop.runtimeconfig.json
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\bin\Debug\net5.0\03.ProductShop.runtimeconfig.dev.json
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\bin\Debug\net5.0\03.ProductShop.dll
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\bin\Debug\net5.0\ref\03.ProductShop.dll
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\bin\Debug\net5.0\03.ProductShop.pdb
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\obj\Debug\net5.0\03.ProductShop.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\obj\Debug\net5.0\03.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\obj\Debug\net5.0\03.ProductShop.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\obj\Debug\net5.0\03.ProductShop.AssemblyInfo.cs
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\obj\Debug\net5.0\03.ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\obj\Debug\net5.0\03.ProductShop.dll
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\obj\Debug\net5.0\ref\03.ProductShop.dll
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\obj\Debug\net5.0\03.ProductShop.pdb
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\03.ProductShop\obj\Debug\net5.0\03.ProductShop.genruntimeconfig.cache

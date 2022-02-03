@@ -1,0 +1,16 @@
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\net5.0\04.MergeFiles.exe
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\net5.0\04.MergeFiles.deps.json
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\net5.0\04.MergeFiles.runtimeconfig.json
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\net5.0\04.MergeFiles.runtimeconfig.dev.json
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\net5.0\04.MergeFiles.dll
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\net5.0\ref\04.MergeFiles.dll
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\net5.0\04.MergeFiles.pdb
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\net5.0\04.MergeFiles.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\net5.0\04.MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\net5.0\04.MergeFiles.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\net5.0\04.MergeFiles.AssemblyInfo.cs
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\net5.0\04.MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\net5.0\04.MergeFiles.dll
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\net5.0\ref\04.MergeFiles.dll
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\net5.0\04.MergeFiles.pdb
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\net5.0\04.MergeFiles.genruntimeconfig.cache

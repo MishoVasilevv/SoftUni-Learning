@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.exe
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.deps.json
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.runtimeconfig.json
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.dll
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.pdb
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.AssemblyInfo.cs
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.dll
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.pdb
+C:\Users\misho\source\repos\Classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.genruntimeconfig.cache

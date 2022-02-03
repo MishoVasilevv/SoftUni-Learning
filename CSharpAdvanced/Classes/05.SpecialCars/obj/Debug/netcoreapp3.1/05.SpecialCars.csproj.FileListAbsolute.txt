@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\Classes\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.exe
+C:\Users\misho\source\repos\Classes\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.deps.json
+C:\Users\misho\source\repos\Classes\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.runtimeconfig.json
+C:\Users\misho\source\repos\Classes\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Classes\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.dll
+C:\Users\misho\source\repos\Classes\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.pdb
+C:\Users\misho\source\repos\Classes\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\Classes\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Classes\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.AssemblyInfo.cs
+C:\Users\misho\source\repos\Classes\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Classes\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.dll
+C:\Users\misho\source\repos\Classes\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.pdb
+C:\Users\misho\source\repos\Classes\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.genruntimeconfig.cache

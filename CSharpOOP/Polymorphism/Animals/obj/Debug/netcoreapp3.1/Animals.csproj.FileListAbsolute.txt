@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\misho\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\misho\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\misho\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\misho\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\misho\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\misho\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\misho\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\misho\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

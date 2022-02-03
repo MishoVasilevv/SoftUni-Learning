@@ -1,0 +1,16 @@
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\bin\Debug\net5.0\07.SoftUniParty.exe
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\bin\Debug\net5.0\07.SoftUniParty.deps.json
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\bin\Debug\net5.0\07.SoftUniParty.runtimeconfig.json
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\bin\Debug\net5.0\07.SoftUniParty.runtimeconfig.dev.json
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\bin\Debug\net5.0\07.SoftUniParty.dll
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\bin\Debug\net5.0\ref\07.SoftUniParty.dll
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\bin\Debug\net5.0\07.SoftUniParty.pdb
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\obj\Debug\net5.0\07.SoftUniParty.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\obj\Debug\net5.0\07.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\obj\Debug\net5.0\07.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\obj\Debug\net5.0\07.SoftUniParty.AssemblyInfo.cs
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\obj\Debug\net5.0\07.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\obj\Debug\net5.0\07.SoftUniParty.dll
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\obj\Debug\net5.0\ref\07.SoftUniParty.dll
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\obj\Debug\net5.0\07.SoftUniParty.pdb
+C:\Users\misho\source\repos\SetsAndDictionariesAdvanced\07.SoftUniParty\obj\Debug\net5.0\07.SoftUniParty.genruntimeconfig.cache

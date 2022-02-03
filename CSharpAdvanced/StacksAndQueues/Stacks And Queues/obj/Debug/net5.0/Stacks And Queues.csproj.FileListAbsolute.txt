@@ -1,0 +1,16 @@
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\bin\Debug\net5.0\Stacks And Queues.exe
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\bin\Debug\net5.0\Stacks And Queues.deps.json
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\bin\Debug\net5.0\Stacks And Queues.runtimeconfig.json
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\bin\Debug\net5.0\Stacks And Queues.runtimeconfig.dev.json
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\bin\Debug\net5.0\Stacks And Queues.dll
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\bin\Debug\net5.0\ref\Stacks And Queues.dll
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\bin\Debug\net5.0\Stacks And Queues.pdb
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\obj\Debug\net5.0\Stacks And Queues.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\obj\Debug\net5.0\Stacks And Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\obj\Debug\net5.0\Stacks And Queues.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\obj\Debug\net5.0\Stacks And Queues.AssemblyInfo.cs
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\obj\Debug\net5.0\Stacks And Queues.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\obj\Debug\net5.0\Stacks And Queues.dll
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\obj\Debug\net5.0\ref\Stacks And Queues.dll
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\obj\Debug\net5.0\Stacks And Queues.pdb
+C:\Users\misho\source\repos\CSharpAdvanced\Stacks And Queues\obj\Debug\net5.0\Stacks And Queues.genruntimeconfig.cache

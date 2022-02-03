@@ -1,0 +1,16 @@
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\net5.0\05.SliceAFile.exe
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\net5.0\05.SliceAFile.deps.json
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\net5.0\05.SliceAFile.runtimeconfig.json
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\net5.0\05.SliceAFile.runtimeconfig.dev.json
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\net5.0\05.SliceAFile.dll
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\net5.0\ref\05.SliceAFile.dll
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\net5.0\05.SliceAFile.pdb
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\net5.0\05.SliceAFile.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\net5.0\05.SliceAFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\net5.0\05.SliceAFile.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\net5.0\05.SliceAFile.AssemblyInfo.cs
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\net5.0\05.SliceAFile.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\net5.0\05.SliceAFile.dll
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\net5.0\ref\05.SliceAFile.dll
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\net5.0\05.SliceAFile.pdb
+C:\Users\misho\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\net5.0\05.SliceAFile.genruntimeconfig.cache

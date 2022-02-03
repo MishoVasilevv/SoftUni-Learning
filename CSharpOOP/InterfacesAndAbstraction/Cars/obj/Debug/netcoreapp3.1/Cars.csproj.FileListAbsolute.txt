@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\misho\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

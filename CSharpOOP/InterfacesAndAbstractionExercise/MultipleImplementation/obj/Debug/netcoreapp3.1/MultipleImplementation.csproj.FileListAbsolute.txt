@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.exe
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.deps.json
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.runtimeconfig.json
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.runtimeconfig.dev.json
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.dll
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.pdb
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.AssemblyInfo.cs
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.dll
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.pdb
+C:\Users\misho\source\repos\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.genruntimeconfig.cache

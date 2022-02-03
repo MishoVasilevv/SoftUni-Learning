@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.exe
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\misho\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache

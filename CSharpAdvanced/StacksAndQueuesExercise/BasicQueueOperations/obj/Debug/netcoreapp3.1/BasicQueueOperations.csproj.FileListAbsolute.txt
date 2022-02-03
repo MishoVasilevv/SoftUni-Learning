@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.exe
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.deps.json
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.json
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.dll
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.dll
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+C:\Users\misho\source\repos\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.genruntimeconfig.cache

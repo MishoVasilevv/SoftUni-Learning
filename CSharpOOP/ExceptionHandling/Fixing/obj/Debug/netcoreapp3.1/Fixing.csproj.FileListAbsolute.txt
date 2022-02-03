@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.exe
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.deps.json
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.runtimeconfig.json
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.dll
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.pdb
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.AssemblyInfo.cs
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.dll
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.pdb
+C:\Users\misho\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.exe
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.deps.json
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.runtimeconfig.json
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.dll
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.pdb
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.AssemblyInfo.cs
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.dll
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.pdb
+C:\Users\misho\source\repos\Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.genruntimeconfig.cache

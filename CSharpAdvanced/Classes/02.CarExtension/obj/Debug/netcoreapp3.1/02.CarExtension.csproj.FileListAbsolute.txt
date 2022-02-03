@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\Classes\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.exe
+C:\Users\misho\source\repos\Classes\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.deps.json
+C:\Users\misho\source\repos\Classes\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.runtimeconfig.json
+C:\Users\misho\source\repos\Classes\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Classes\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.dll
+C:\Users\misho\source\repos\Classes\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.pdb
+C:\Users\misho\source\repos\Classes\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\Classes\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Classes\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.AssemblyInfo.cs
+C:\Users\misho\source\repos\Classes\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Classes\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.dll
+C:\Users\misho\source\repos\Classes\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.pdb
+C:\Users\misho\source\repos\Classes\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.genruntimeconfig.cache

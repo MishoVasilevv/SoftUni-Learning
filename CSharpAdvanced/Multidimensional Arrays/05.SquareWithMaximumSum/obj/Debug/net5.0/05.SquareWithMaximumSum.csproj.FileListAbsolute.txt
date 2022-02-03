@@ -1,0 +1,16 @@
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.exe
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.deps.json
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.dll
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net5.0\ref\05.SquareWithMaximumSum.dll
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.pdb
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.dll
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net5.0\ref\05.SquareWithMaximumSum.dll
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.pdb
+C:\Users\misho\source\repos\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.genruntimeconfig.cache

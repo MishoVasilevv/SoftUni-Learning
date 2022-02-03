@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\bin\Debug\netcoreapp3.1\PokemonTrainer.exe
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\bin\Debug\netcoreapp3.1\PokemonTrainer.deps.json
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.json
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\bin\Debug\netcoreapp3.1\PokemonTrainer.dll
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\bin\Debug\netcoreapp3.1\PokemonTrainer.pdb
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\obj\Debug\netcoreapp3.1\PokemonTrainer.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfo.cs
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\obj\Debug\netcoreapp3.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\obj\Debug\netcoreapp3.1\PokemonTrainer.dll
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\obj\Debug\netcoreapp3.1\PokemonTrainer.pdb
+C:\Users\misho\source\repos\ClassesExercise\ПокемонТраинер\obj\Debug\netcoreapp3.1\PokemonTrainer.genruntimeconfig.cache
